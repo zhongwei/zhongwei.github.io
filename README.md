@@ -1,2 +1,2 @@
 # zhongwei.github.io
-A programer's homepage.
+A programmer's homepage.
